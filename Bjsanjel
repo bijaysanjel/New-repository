@@ -1,0 +1,18 @@
+git init
+touch readme.txt
+git add .
+git status
+git commit -m 'commited'
+git status
+touch .gitignore
+git checkout newBranch
+git checkout master
+git merge login
+git remote
+git remote https:...........
+git push -u origin master
+touch readme
+git add .
+git push
+git clone https:.......
+git pull
